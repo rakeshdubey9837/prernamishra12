@@ -1,3 +1,2 @@
-# prernamishra12 raalknjhkjhkhk
-kgjhghg
-bgigkkk
+# code-deploy-udemy
+This repository contains all the resources used in the Udemy course.
